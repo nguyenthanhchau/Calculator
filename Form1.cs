@@ -20,6 +20,7 @@ namespace Calculator
         {
             int a = int.Parse(textBox1.Text);
             int b = int.Parse(textBox2.Text);
+            int c = int.Parse(textBox3.Text);
         }
     }
 }
